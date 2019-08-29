@@ -1,7 +1,7 @@
 # master
 master
 
-* 作者： xin Tse
+* author： xiexin
 
 
 
