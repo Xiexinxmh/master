@@ -1,4 +1,0 @@
-# test_login
-test_login_login
-# test_getsessionId_keno
-
